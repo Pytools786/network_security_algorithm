@@ -13,3 +13,9 @@ Following Algorithms are used to encrypt the data:
 8. Affine cypher
 9. vegnare cypher
 10. Substitution cypher
+
+know how to encrypt data using this algorithm watch This Videos: 
+
+https://www.instagram.com/p/CSq8PSqq33R/
+
+https://www.instagram.com/p/CSq9IxKqa-v/
